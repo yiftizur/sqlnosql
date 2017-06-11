@@ -3,15 +3,8 @@
 
 # What is SQL?
 
-+++
-
-# What is SQL?
-
-* **S**tructured **Q**uery **L**anguage
+* **S**tructured **Q**uery **L**anguage |
+* Used to Query structured data |
+* Using Relational Databases |
 
 +++
-
-# What is SQL?
-
-* **S**tructured **Q**uery **L**anguage
-* Used to Query structured data :laughing:
