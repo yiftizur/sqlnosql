@@ -20,8 +20,7 @@
 
 # Relational DBs
 
-* Collection of Data items organized in a table ! <!-- .element: class="fragment" -->
-* Every new item (record) is a row with data organized by columns <!-- .element: class="fragment" -->
-* Very (Very) usefull when we know how the data will look like (it's structure) <!-- .element: class="fragment" -->
-* Easy to break down data (de-normalize) to different tables (Relations) to increase performance and reduce data duplication <!-- .element: class="fragment" -->
-* Powerful JOIN operations on tables to intersect data <!-- .element: class="fragment" -->
+* [x] Collection of Data items organized in a table ! <!-- .element: class="fragment" -->
+* [x] Very (Very) usefull when we know how the data will look like (it's structure) <!-- .element: class="fragment" -->
+* [x] Break down data (de-normalize) to tables (Relations) to increase performance and reduce data duplication <!-- .element: class="fragment" -->
+* [x] Powerful JOIN operations on tables to intersect data <!-- .element: class="fragment" -->
