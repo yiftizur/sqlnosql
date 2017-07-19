@@ -102,7 +102,7 @@
 
 # ElasticSearch
 
-- Was created by an Israeli!! (Shay Banon) <img src="http://www.abflags.com/_flags/flags-of-the-world/Israel%20flag/Israel%20flag-XXL-anim.gif" style="float: right;border: #000000 0px"/>
+- Was created by an Israeli!! (Shay Banon) <img src="http://www.abflags.com/_flags/flags-of-the-world/Israel%20flag/Israel%20flag-XXL-anim.gif" width="120px" height="120px" style="float: right;border: #000000 0px"/>
 - Based on Apache Lucene (indexing and searching library)
 - Offers rich Querying and Metadata on the documents stored
 - Used for recommendations (offers internal scoring of documents on likeness to others)
