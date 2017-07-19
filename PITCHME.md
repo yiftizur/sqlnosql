@@ -67,10 +67,10 @@
 
 # Key Value DBs
 
-- Redis <img src="https://scottlinux.com/wp-content/uploads/2014/10/redis-logo.png" style="float: right;border: #000000 0px; width: 60; height: 60"/>
-- AeroSpike <img src="https://res.cloudinary.com/crunchbase-production/image/upload/v1495317741/xdb3tzzpyrcyje4bwmdg.png" style="float: right;border: #000000 0px; width: 60; height: 60"/>
-- Memcached <img src="https://blog.elijaa.org/wp-content/uploads/2012/02/Memcached_Logo_White.png" style="float: right;border: #000000 0px; width: 60; height: 60"/>
-- DynamoDB <img src="https://www.celayix.com/wp-content/uploads/2017/06/DynamoDB-Amazon-Web-Services.png" style="float: right;border: #000000 0px; width: 60; height: 60"/>
+- Redis <img src="https://scottlinux.com/wp-content/uploads/2014/10/redis-logo.png" width="120px" height="120px" style="float: right;border: #000000 0px"/>
+- AeroSpike <img src="https://res.cloudinary.com/crunchbase-production/image/upload/v1495317741/xdb3tzzpyrcyje4bwmdg.png" width="120px" height="120px" style="float: right;border: #000000 0px"/>
+- Memcached <img src="https://blog.elijaa.org/wp-content/uploads/2012/02/Memcached_Logo_White.png" width="120px" height="120px" style="float: right;border: #000000 0px"/>
+- DynamoDB <img src="https://www.celayix.com/wp-content/uploads/2017/06/DynamoDB-Amazon-Web-Services.png" width="120px" height="120px" style="float: right;border: #000000 0px"/>
 
 +++
 
