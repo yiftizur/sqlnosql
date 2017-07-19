@@ -86,9 +86,9 @@
 
 # Document DBs
 
-- <p>ElasticSearch <img src="https://static-www.elastic.co/assets/blt6050efb80ceabd47/elastic-logo%20(2).svg?q=540" width="120px" height="120px" style="float: right;border: #000000 0px"/></p>
-- <p>MongoDB <img src="http://cdn.rancher.com/wp-content/uploads/2016/01/26001728/mongodb-logo.png" width="120px" height="120px" style="float: right;border: #000000 0px"/></p>
-- <p>CouchDB <img src="https://wiki.apache.org/couchdb/FrontPage?action=AttachFile&do=get&target=couch.png" width="120px" height="120px" style="float: right;border: #000000 0px"/></p>
+- ElasticSearch <img src="https://static-www.elastic.co/assets/blt6050efb80ceabd47/elastic-logo%20(2).svg?q=540" width="120px" height="120px" style="float: right;border: #000000 0px"/>
+- MongoDB <img src="http://cdn.rancher.com/wp-content/uploads/2016/01/26001728/mongodb-logo.png" width="120px" height="120px" style="float: right;border: #000000 0px"/>
+- CouchDB <img src="https://wiki.apache.org/couchdb/FrontPage?action=AttachFile&do=get&target=couch.png" width="120px" height="120px" style="float: right;border: #000000 0px"/>
 
 +++
 
@@ -111,10 +111,10 @@
 
 # Column Oriented DBs
 
-- <p>HBase <img src="https://mapr.com/products/product-overview/apache-hbase/assets/apache-hbase-image.png" width="80px" height="80px" style="float: right;border: #000000 0px"/></p>
-- <p>Cassandra <img src="http://redglue.eu/wp-content/uploads/Cassandra-300x201.png" width="80px" height="80px" style="float: right;border: #000000 0px"/></p>
-- <p>ScyllaDB <img src="http://www.scylladb.com/wp-content/uploads/mascot.svg" width="80px" height="80px" style="float: right;border: #000000 0px"/></p>
-- <p>Parquet <img src="https://cdn.dribbble.com/users/299/screenshots/1625979/parquet-drib.png" width="80px" height="80px" style="float: right;border: #000000 0px"/></p>
+- HBase <img src="https://mapr.com/products/product-overview/apache-hbase/assets/apache-hbase-image.png" width="80px" height="80px" style="float: right;border: #000000 0px"/>
+- Cassandra <img src="http://redglue.eu/wp-content/uploads/Cassandra-300x201.png" width="80px" height="80px" style="float: right;border: #000000 0px"/>
+- ScyllaDB <img src="http://www.scylladb.com/wp-content/uploads/mascot.svg" width="80px" height="80px" style="float: right;border: #000000 0px"/>
+- Parquet <img src="https://cdn.dribbble.com/users/299/screenshots/1625979/parquet-drib.png" width="80px" height="80px" style="float: right;border: #000000 0px"/>
 
 +++
 # Column Oriented DBs
