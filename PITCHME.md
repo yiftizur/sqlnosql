@@ -67,9 +67,9 @@
 
 # Key Value DBs
 
-- Redis <img src="assets/imgs/Redis.png" style="float: right;border: #000000 0px; width: 60; height: 60"/>
-- AeroSpike <img src="assets/imgs/Aerospike.png" style="float: right;border: #000000 0px; width: 60; height: 60"/>
-- Memcached <img src="assets/imgs/Memcached.png" style="float: right;border: #000000 0px; width: 60; height: 60"/>
+- Redis <img src="https://scottlinux.com/wp-content/uploads/2014/10/redis-logo.png" style="float: right;border: #000000 0px; width: 60; height: 60"/>
+- AeroSpike <img src="https://res.cloudinary.com/crunchbase-production/image/upload/v1495317741/xdb3tzzpyrcyje4bwmdg.png" style="float: right;border: #000000 0px; width: 60; height: 60"/>
+- Memcached <img src="https://blog.elijaa.org/wp-content/uploads/2012/02/Memcached_Logo_White.png" style="float: right;border: #000000 0px; width: 60; height: 60"/>
 - DynamoDB <img src="https://www.celayix.com/wp-content/uploads/2017/06/DynamoDB-Amazon-Web-Services.png" style="float: right;border: #000000 0px; width: 60; height: 60"/>
 
 +++
@@ -86,9 +86,9 @@
 
 # Document DBs
 
-- <p>ElasticSearch <img src="assets/imgs/Elasticsearch.png" width="120px" height="120px" style="float: right;border: #000000 0px"/></p>
-- <p>MongoDB <img src="assets/imgs/MongoDB.png" width="120px" height="120px" style="float: right;border: #000000 0px"/></p>
-- <p>CouchDB <img src="assets/imgs/CouchDB.png" width="120px" height="120px" style="float: right;border: #000000 0px"/></p>
+- <p>ElasticSearch <img src="https://static-www.elastic.co/assets/blt6050efb80ceabd47/elastic-logo%20(2).svg?q=540" width="120px" height="120px" style="float: right;border: #000000 0px"/></p>
+- <p>MongoDB <img src="http://cdn.rancher.com/wp-content/uploads/2016/01/26001728/mongodb-logo.png" width="120px" height="120px" style="float: right;border: #000000 0px"/></p>
+- <p>CouchDB <img src="https://wiki.apache.org/couchdb/FrontPage?action=AttachFile&do=get&target=couch.png" width="120px" height="120px" style="float: right;border: #000000 0px"/></p>
 
 +++
 
@@ -102,7 +102,7 @@
 
 # ElasticSearch
 
-- Was created by an Israeli!! (Shay Banon) <img src="assets/imgs/israel-flag-animation.gif" style="float: right;border: #000000 0px"/>
+- Was created by an Israeli!! (Shay Banon) <img src="http://www.abflags.com/_flags/flags-of-the-world/Israel%20flag/Israel%20flag-XXL-anim.gif" style="float: right;border: #000000 0px"/>
 - Based on Apache Lucene (indexing and searching library)
 - Offers rich Querying and Metadata on the documents stored
 - Used for recommendations (offers internal scoring of documents on likeness to others)
