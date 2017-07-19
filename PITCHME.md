@@ -109,7 +109,7 @@
 
 +++
 
-# Column Oriented DBs
+## Column Oriented DBs
 
 - HBase <img src="https://mapr.com/products/product-overview/apache-hbase/assets/apache-hbase-image.png" width="80px" height="80px" style="float: right;border: #000000 0px"/>
 - Cassandra <img src="http://redglue.eu/wp-content/uploads/Cassandra-300x201.png" width="80px" height="80px" style="float: right;border: #000000 0px"/>
